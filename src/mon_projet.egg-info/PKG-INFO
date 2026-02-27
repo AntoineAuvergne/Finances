@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: mon_projet
+Version: 0.1.0
+Summary: Projet POO
+Requires-Python: <3.14,>=3.11
+Provides-Extra: dev
